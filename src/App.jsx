@@ -51,7 +51,7 @@ function App() {
           paddingLeft: "30px",
         }}
       >
-        <h2>Keranjang �</h2>
+        <h2>Keranjang 🛒</h2>
 
         {/* Conditional Rendering: Jika kosong, tampilkan
 pesan. Jika isi, tampilkan list */}
